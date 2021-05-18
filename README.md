@@ -1,9 +1,11 @@
 # Description
-The roomba challenge is a node.js and JavaScript app that replicates the movements and actions of a roomba based on input containing coordinates of the room, coordinates of the roomba, coordinates of patches of dirt, and cardinal directions for the roomba to follow.
-# Program Execution
-**Prerequisite:** In order to execute the program from the command line you will need to have node.js installed. Download and installation instructions can be found here: 
-  https://nodejs.org/en/download/
+The roomba challenge is a node.js and JavaScript application that replicates the movements and actions of a roomba. The program executes based upon input containing coordinates of the room, coordinates of the roomba, coordinates of patches of dirt, and cardinal directions for the roomba to follow. The final output of the program is the ending location of the roomba and the number of dirt patches cleaned by the vacuum.
 
+# Prerequisite
+In order to execute the program from the command line you will need to have node.js installed. Download and installation instructions can be found here: 
+  https://nodejs.org/en/download/
+  
+# Program Execution
 In order to install and run the roomba challenge script perform the following steps:
 
 1. Select 'Code' in the repository toolbar:
