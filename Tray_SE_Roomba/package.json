@@ -1,0 +1,19 @@
+{
+  "name": "tray_se_roomba",
+  "version": "1.0.0",
+  "description": "Tray.io SE candidate technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foster-king/Tray-RoombaChallenge.git"
+  },
+  "author": "Foster King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foster-king/Tray-RoombaChallenge/issues"
+  },
+  "homepage": "https://github.com/foster-king/Tray-RoombaChallenge#readme"
+}
